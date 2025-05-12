@@ -34,6 +34,9 @@ pip install crewai
 pip install 'crewai[tools]'  # For additional CrewAI tools support
 ```
 
+Put the `qdrant.py` into the Crew folder in `tools`
+
+
 ## Environment Variables
 
 The tool requires the following environment variables:
@@ -169,7 +172,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[License information here]
+Apache 2.0
 
 ## Documentation
 
